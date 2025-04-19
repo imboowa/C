@@ -1,6 +1,6 @@
 ## C
 # Low Level
-Man, I am at Low Level Academy and our teacher(instructor) is really good, he teaches with jokes and fun. I really love his programs because he write them neatly easy to digest, and so nice when you get to the bottom of his code, Thanks to my teacher(instructor).
+Man, I am at Low Level Academy and our teacher(instructor) is really good, he teaches with jokes and fun. I really love his programs because he writes them neatly, easy to digest, and so nice when you get to the bottom of his code, Thanks to my teacher(instructor).
 
 ## Projects
 
