@@ -27,5 +27,3 @@ If C++ makes games can't C make games too. I really learnt this from a popular Y
 
 # LinkedIn
 [Immanuel Mboowa](https://www.linkedin.com/in/immanuel-mboowa-773b65343/)
-
-©2025 Immanuel Mboowa. All Rights reserved
