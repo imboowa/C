@@ -20,7 +20,7 @@ This makes a file, then validates its content with stat struct. So it basically 
 This is infact the most code snippet so nice that I really love it. This program does the realloc but explicit in a way that it calles realloc in itself, then reallocates memory to a given `(pointer, size)`. Thanks to my teacher(instructor), Ed.
 
 ## [game.c](https://github.com/imboowa/C/blob/main/home.c)
-If C++ makes games can't C make games too. I really learnt this from a popular YouTuber, BroCode. He taught me function logic(DRY)`Don't Repeat Yourself`. This makes a board, you play, and it clears. That alone is logic. Coding is fun guys, try it.
+If C++ makes games can't C make games too. I really learnt this from a popular YouTuber, BroCode. He taught me function logic(DRY)`Don't Repeat Yourself`. This makes a board, you play, and it clears. That alone is logic. Coding is fun guys, try it. It has a bug too, the bug is that letter `o` is a zero character which I am trying to figure out.
 
 # Website
 [Immanuel Mboowa](https://imboowa.github.io/ImmanuelMboowa/index.html)
